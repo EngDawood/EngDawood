@@ -16,10 +16,16 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
-          token: ${{ secrets.TOKEN }}
-          
+          token: ${{ secrets.GITHUB_TOKEN }}
+
           # Options
           user: EngDawood
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: ""
           config_timezone: Asia/Riyadh
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
