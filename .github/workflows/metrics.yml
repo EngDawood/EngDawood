@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # Schedule updates every day
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows to run workflow manually
+  workflow_dispatch:
+  # Run on push to main/master
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          # Your GitHub token
+          token: ${{ secrets.TOKEN }}
+          
+          # Options
+          user: EngDawood
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Riyadh

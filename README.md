@@ -113,6 +113,9 @@ Al-Thawra Secondary School (Boys) | Haja, Yemen
 
 ![EngDawood's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngDawood&show_icons=true&theme=github_dark)
 
+<!--METRICS_START-->
+<!--METRICS_END-->
+
 ---
 
 **References available upon request.**
