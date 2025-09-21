@@ -20,28 +20,20 @@ I'm a Software Developer and Freelance Academic Research Writer with a passion f
 
 ## 💼 Professional Experience
 
-<div align="center">
-
 ### 🎓 Freelance Academic Research Writer & Presentation Designer
-**2020 – Present** | *5+ Years of Excellence*
+**2020 – Present** | *5+ Years*
 
-</div>
+**Key Responsibilities:**
+- ✍️ Author and edit research papers in Computer Science (ML, Data Analysis, Cybersecurity)
+- 🌍 Translate academic research between Arabic and English
+- 📋 Format documents to IEEE, APA, and Elsevier standards using LaTeX and Word
+- 🎨 Create infographics and interactive slides from research data
 
-<div align="left">
-
-#### 📝 Research & Writing Excellence
-- ✍️ **Authored & Edited** 100+ research papers in CS (ML, Data Analysis, Cybersecurity)
-- 🌍 **Translation Specialist** - Arabic ↔ English academic research
-- 📋 **Standards Compliance** - IEEE, APA, Elsevier formatting (LaTeX, Word)
-- 🎨 **Visual Communication** - Research to infographics & interactive slides
-
-#### 🎯 Client Success & Project Management
-- ⭐ **95% Client Satisfaction** on Upwork, Fiverr
-- 📊 **70+ Presentations** for international conferences
-- 🤝 **International Collaboration** with global clients
-- ⚡ **Multi-project Management** with timely delivery
-
-</div>
+**Achievements:**
+- ⭐ 95% client satisfaction rate on Upwork and Fiverr
+- 📊 Designed 70+ presentations for international conferences
+- 🤝 Collaborated with global academic clients
+- ⚡ Managed multiple projects with consistent timely delivery
 
 ---
 
