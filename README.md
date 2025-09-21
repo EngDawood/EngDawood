@@ -30,16 +30,16 @@ I'm a Software Developer and Freelance Academic Research Writer with a passion f
 <div align="left">
 
 #### 📝 Research & Writing Excellence
-- ✍️ **Authored & Edited** 100+ research papers in computer science (ML, Data Analysis, Cybersecurity)
-- 🌍 **Translation Specialist** - Arabic ↔ English academic research with technical precision
-- 📋 **Standards Compliance** - IEEE, APA, Elsevier formatting using LaTeX & Microsoft Word
-- 🎨 **Visual Communication** - Transformed complex research into infographics & interactive slides
+- ✍️ **Authored & Edited** 100+ research papers in CS (ML, Data Analysis, Cybersecurity)
+- 🌍 **Translation Specialist** - Arabic ↔ English academic research
+- 📋 **Standards Compliance** - IEEE, APA, Elsevier formatting (LaTeX, Word)
+- 🎨 **Visual Communication** - Research to infographics & interactive slides
 
 #### 🎯 Client Success & Project Management
-- ⭐ **95% Client Satisfaction** on freelance platforms (Upwork, Fiverr)
-- 📊 **70+ Presentations** designed for international conferences & institutions
-- 🤝 **International Collaboration** with global academic clients
-- ⚡ **Multi-project Management** with consistent timely delivery
+- ⭐ **95% Client Satisfaction** on Upwork, Fiverr
+- 📊 **70+ Presentations** for international conferences
+- 🤝 **International Collaboration** with global clients
+- ⚡ **Multi-project Management** with timely delivery
 
 </div>
 
@@ -193,9 +193,9 @@ I'm a Software Developer and Freelance Academic Research Writer with a passion f
 
 ### 📈 Current Research Focus
 - 🤖 **AI Applications** in Healthcare & Education
-- 🔍 **Advanced Web Scraping** Techniques & Tools
-- 📊 **Data-Driven Decision Making** in Academic Research
-- 🔒 **AI-Enhanced Cybersecurity** Solutions
+- 🔍 **Advanced Web Scraping** & Automation
+- 📊 **Data-Driven Decision Making**
+- 🔒 **AI-Enhanced Cybersecurity**
 
 </div>
 
