@@ -69,21 +69,6 @@ I'm a Software Developer and Freelance Academic Research Writer with a passion f
 
 ---
 
-## 🌍 Language Proficiency
-
-<div align="center">
-
-### 🗣️ Communication Skills
-![Arabic](https://img.shields.io/badge/Arabic-Native-4CAF50?style=for-the-badge&logo=language&logoColor=white)
-![English](https://img.shields.io/badge/English-C1_Advanced-2196F3?style=for-the-badge&logo=english&logoColor=white)
-
-**Arabic:** Native speaker with academic writing expertise  
-**English:** C1 Advanced level (Writing & Speaking)
-
-</div>
-
----
-
 ## 🧰 Core Competencies
 
 <div align="center">
