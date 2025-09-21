@@ -5,11 +5,16 @@ I'm passionate about software development, open source, and continuous learning.
 
 ## 🚀 About Me
 
-- 💻 Software Developer & Freelance Academic Research Writer
-- 🌱 Currently exploring AI, Machine Learning, and web scraping tools
-- 🤖 Interested in AI, ML, and automation
-- 🤝 Always open to collaboration and interesting projects
-- 🛠️ I love working with Python, PHP, JavaScript, and DevOps tools
+I'm a Software Developer and Freelance Academic Research Writer with a passion for continuous learning and open-source collaboration. I'm currently exploring new frontiers in AI and Machine Learning, with a keen interest in automation and web scraping.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-0077B6?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-121011?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
