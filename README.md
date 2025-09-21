@@ -18,99 +18,201 @@ I'm a Software Developer and Freelance Academic Research Writer with a passion f
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Freelance Academic Research Writer & Presentation Designer**  
-_2020 – Present_
+<div align="center">
 
-- Authored and edited research papers in computer science fields (e.g., machine learning, data analysis, cybersecurity).
-- Translated academic research between Arabic and English while maintaining technical accuracy.
-- Formatted research documents in compliance with IEEE, APA, and Elsevier standards using LaTeX and Microsoft Word.
-- Designed professional presentations for conferences and academic platforms using PowerPoint, Canva, and Prezi.
-- Converted complex research findings into visual infographics and interactive slides.
-- Collaborated with international clients via freelance platforms (e.g., Upwork, Fiverr), achieving 95% client satisfaction.
-- Managed multiple projects simultaneously, ensuring timely delivery and adherence to quality standards.
+### 🎓 Freelance Academic Research Writer & Presentation Designer
+**2020 – Present** | *5+ Years of Excellence*
 
----
+</div>
 
-## 🎓 Education
+<div align="left">
 
-**Bachelor of Computer Science**  
-Faculty of Applied Sciences – Haja University | Haja, Yemen  
-2016 – 2020  
-- Graduated with Honors (Excellent GPA) | 2019–2020
-- Specialization: Artificial Intelligence, Data Analysis, Cybersecurity
+#### 📝 Research & Writing Excellence
+- ✍️ **Authored & Edited** 100+ research papers in computer science (ML, Data Analysis, Cybersecurity)
+- 🌍 **Translation Specialist** - Arabic ↔ English academic research with technical precision
+- 📋 **Standards Compliance** - IEEE, APA, Elsevier formatting using LaTeX & Microsoft Word
+- 🎨 **Visual Communication** - Transformed complex research into infographics & interactive slides
 
-**High School**  
-Al-Thawra Secondary School (Boys) | Haja, Yemen  
-2014  
-- Graduated with Excellent GPA
+#### 🎯 Client Success & Project Management
+- ⭐ **95% Client Satisfaction** on freelance platforms (Upwork, Fiverr)
+- 📊 **70+ Presentations** designed for international conferences & institutions
+- 🤝 **International Collaboration** with global academic clients
+- ⚡ **Multi-project Management** with consistent timely delivery
+
+</div>
 
 ---
 
-## 🌏 Languages
+## 🎓 Academic Background
 
-- **Arabic:** Native
-- **English:** Advanced (C1 Level) – Writing & Speaking
+<div align="center">
 
----
+### 🎓 Bachelor of Computer Science
+**Faculty of Applied Sciences – Haja University | Yemen**  
+*2016 – 2020* | *4 Years*
 
-## 🧰 Skills
+![Degree](https://img.shields.io/badge/Degree-Bachelor's-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-Honors-FF9800?style=for-the-badge&logo=star&logoColor=white)
+![AI](https://img.shields.io/badge/Specialization-AI_&_Data_Science-2196F3?style=for-the-badge&logo=brain&logoColor=white)
 
-- **Research & Writing:** Academic Writing, Literature Reviews, Statistical Analysis (Python, R, Excel)
-- **Technical Tools:** LaTeX, EndNote, Google Scholar, IEEE Xplore
-- **Presentation Design:** PowerPoint, Canva, Prezi, Infographics
-- **Programming:** Python (Pandas, NumPy), SQL, PHP, JavaScript
-- **Soft Skills:** Time Management, Team Collaboration, Multitasking
+**Specialization:** Artificial Intelligence, Data Analysis, Cybersecurity
 
----
+### 🏫 High School Education
+**Al-Thawra Secondary School (Boys) | Yemen**  
+*2014* | *Excellent GPA*
 
-## 📜 Courses & Certifications
+![High School](https://img.shields.io/badge/Education-High_School-9C27B0?style=for-the-badge&logo=school&logoColor=white)
 
-- Train the Trainer (TOT) | Edraak Platform × International Board of Certified Trainers | 2021
-- Career Pr | Edraak Platform × British Council | 2021
-- English for the Workplace | Edraak Platform × British Council | 2021
-- Academic Writing Certification | Coursera | 2022
-- Data Visualization with Python | Udemy | 2023
+</div>
 
 ---
 
-## 🏆 Accomplishments
+## 🌍 Language Proficiency
 
-- Designed 70+ research presentations for international conferences and academic institutions.
-- Achieved a 5-star rating from 92% of clients on freelance platforms.
-- Published collaborative research on AI applications in healthcare (Journal of Computer Science, 2023).
-- Recognized for creating a data-driven infographic series used by universities in the Middle East.
+<div align="center">
 
----
+### 🗣️ Communication Skills
+![Arabic](https://img.shields.io/badge/Arabic-Native-4CAF50?style=for-the-badge&logo=language&logoColor=white)
+![English](https://img.shields.io/badge/English-C1_Advanced-2196F3?style=for-the-badge&logo=english&logoColor=white)
 
-## 📫 How to reach me
+**Arabic:** Native speaker with academic writing expertise  
+**English:** C1 Advanced level (Writing & Speaking)
 
-- GitHub: [EngDawood](https://github.com/EngDawood)
-- X (Twitter): [@dawo5d](https://x.com/dawo5d)
-- Instagram: [@dawo5d](https://www.instagram.com/dawo5d/)
-- Telegram: [@Dawo5d](https://t.me/Dawo5d)
-- Facebook: [@dawo5d](https://www.facebook.com/dawo5d/)
+</div>
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Core Competencies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div align="center">
+
+### 📚 Research & Academic Excellence
+![Academic Writing](https://img.shields.io/badge/Academic_Writing-FF5722?style=for-the-badge&logo=writing&logoColor=white)
+![Literature Reviews](https://img.shields.io/badge/Literature_Reviews-673AB7?style=for-the-badge&logo=book&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-009688?style=for-the-badge&logo=chart&logoColor=white)
+
+### 🛠️ Technical Proficiency
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![EndNote](https://img.shields.io/badge/EndNote-9C27B0?style=for-the-badge&logo=note&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+
+### 🎨 Design & Presentation
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
+![Infographics](https://img.shields.io/badge/Infographics-FF6F00?style=for-the-badge&logo=chart&logoColor=white)
+
+### 💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤝 Professional Skills
+![Time Management](https://img.shields.io/badge/Time_Management-4CAF50?style=for-the-badge&logo=clock&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-2196F3?style=for-the-badge&logo=users&logoColor=white)
+![Multitasking](https://img.shields.io/badge/Multitasking-FF9800?style=for-the-badge&logo=zap&logoColor=white)
+
+</div>
 
 ---
 
-## 🔬 Interests
+## 📜 Professional Certifications
 
-- Artificial Intelligence
-- Machine Learning
-- Web Scraping Tools
-- Automation
-- Open Source
+<div align="center">
+
+### 🎓 Training & Development
+![TOT](https://img.shields.io/badge/Train_the_Trainer-FF5722?style=for-the-badge&logo=training&logoColor=white)
+*Edraak Platform × International Board of Certified Trainers | 2021*
+
+![Career Development](https://img.shields.io/badge/Career_Pr-673AB7?style=for-the-badge&logo=career&logoColor=white)
+*Edraak Platform × British Council | 2021*
+
+![English Workplace](https://img.shields.io/badge/English_for_Workplace-009688?style=for-the-badge&logo=english&logoColor=white)
+*Edraak Platform × British Council | 2021*
+
+### 📚 Academic Excellence
+![Academic Writing](https://img.shields.io/badge/Academic_Writing-4CAF50?style=for-the-badge&logo=writing&logoColor=white)
+*Coursera | 2022*
+
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge&logo=chart&logoColor=white)
+*Udemy | 2023*
+
+</div>
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+### 🏅 Professional Milestones
+![Presentations](https://img.shields.io/badge/70%2B_Presentations_Designs-FF5722?style=for-the-badge&logo=design&logoColor=white)
+*International Conferences & Academic Institutions*
+
+![Client Rating](https://img.shields.io/badge/5_Star_Rating-FFD700?style=for-the-badge&logo=star&logoColor=white)
+*92% of Freelance Clients*
+
+### 📖 Research Impact
+![Publication](https://img.shields.io/badge/Published_Research-673AB7?style=for-the-badge&logo=book&logoColor=white)
+*AI Applications in Healthcare - Journal of Computer Science, 2023*
+
+![Infographics](https://img.shields.io/badge/Data_Driven_Infographics-009688?style=for-the-badge&logo=chart&logoColor=white)
+*Used by Universities in Middle East*
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+### 🌐 Professional Networks
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngDawood)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engdawood)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dawo5d)
+
+### 💬 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dawo5d/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dawo5d)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dawo5d/)
+
+### 📧 Professional Contact
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.dawood@example.com)
+
+</div>
+
+---
+
+## 🔬 Research Interests & Focus Areas
+
+<div align="center">
+
+### 🧠 Core Research Domains
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-121011?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2196F3?style=for-the-badge&logo=shield&logoColor=white)
+
+### 🛠️ Technical Interests
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge&logo=zapier&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0077B6?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 📈 Current Research Focus
+- 🤖 **AI Applications** in Healthcare & Education
+- 🔍 **Advanced Web Scraping** Techniques & Tools
+- 📊 **Data-Driven Decision Making** in Academic Research
+- 🔒 **AI-Enhanced Cybersecurity** Solutions
+
+</div>
 
 ---
 
