@@ -23,16 +23,6 @@
 
 <div align="center">
 
-<a href="https://github.com/EngDawood">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngDawood&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117,161b22,1a1f2e&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/>
-</a>
-<a href="https://github.com/EngDawood">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EngDawood&theme=radical&hide_border=true&background=0d1117,161b22,1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=58a6ff&currStreakNum=c9d1d9&dates=8b949e&sideNums=58a6ff"/>
-</a>
-
-<br/>
-
-<!-- Professional Stats Grid -->
 <table>
 <tr>
 <td align="center" width="25%" style="border: none;">
