@@ -33,14 +33,14 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">engdawood@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 76.01%
-<b>PYTHON      </b> [###                 ] 10.21%
-<b>JAVASCRIPT  </b> [##                  ] 6.89 %
-<b>PHP         </b> [#                   ] 2.31 %
-<b>BLADE       </b> [#                   ] 2.30 %
-<b>JAVA        </b> [#                   ] 1.03 %
-<b>CSS         </b> [#                   ] 0.98 %
-<b>HTML        </b> [#                   ] 0.28 %
+<pre><div class="stdin"><span class="ps1-path">engdawood@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [###############     ] 74.65%
+<b>PYTHON      </b> [###                 ] 10.02%
+<b>JAVASCRIPT  </b> [##                  ] 6.77 %
+<b>BLADE       </b> [#                   ] 3.27 %
+<b>PHP         </b> [#                   ] 3.04 %
+<b>JAVA        </b> [#                   ] 1.01 %
+<b>CSS         </b> [#                   ] 0.96 %
+<b>HTML        </b> [#                   ] 0.27 %
 </div>
 
 </pre>
