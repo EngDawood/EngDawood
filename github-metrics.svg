@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="111" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
   
 
   <defs><style>@font-face {
@@ -33,7 +33,15 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">engdawood@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<pre><div class="stdin"><span class="ps1-path">engdawood@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [###########         ] 50.17%
+<b>PYTHON      </b> [####                ] 19.22%
+<b>DART        </b> [##                  ] 9.50 %
+<b>BLADE       </b> [##                  ] 7.35 %
+<b>PHP         </b> [##                  ] 6.45 %
+<b>ASTRO       </b> [#                   ] 2.64 %
+<b>CSS         </b> [#                   ] 2.38 %
+<b>HTML        </b> [#                   ] 2.31 %
+</div>
 
 </pre>
 
