@@ -1,11 +1,11 @@
 <div align="center">
 
-# Eng. Dawood
+# Dawood Saleh
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Developer+%26+MCP+Builder;Model+Context+Protocol+%7C+LLM+Tooling;Building+AI+Agents+%26+Integrations)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=EngDawood&color=blueviolet&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eng-dawood-saleh/)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=read-the-docs&logoColor=white)](https://resume.engdawood.com)
 
 </div>
 
@@ -41,6 +41,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,cloudflare,docker,git,linux,vscode" />
+<img src="https://raw.githubusercontent.com/agentskills/agentskills/main/docs/images/logos/claude-ai/Claude-logo-Ivory.svg" width="45" height="45" alt="Claude" title="Claude" />
+<img src="assets/mistral-logo.svg" width="45" height="45" alt="Mistral" title="Mistral" />
+<img src="https://raw.githubusercontent.com/agentsmd/agents.md/refs/heads/main/public/favicon.ico" width="45" height="45" alt="agents.md" title="agents.md" />
 
 </div>
 
@@ -61,7 +64,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://engdawood.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.engdawood.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngDawood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-dawood-saleh/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dawo5d)
@@ -69,3 +71,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.dawoodsaleh@gmail.com)
 
 </div>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=EngDawood&color=blueviolet&style=flat-square&label=Profile+Views)
