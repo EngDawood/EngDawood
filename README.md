@@ -29,12 +29,28 @@
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [Arabic Scholar MCP Server](https://github.com/EngDawood/arabic-scholar-mcp-server) | MCP server for Arabic academic research and scholarly resources |
-| [Yemen Jobs Bot](https://t.me/hr_yemen) | Telegram bot aggregating Yemeni job listings — [@hr_yemen](https://t.me/hr_yemen) · [@Yemenhrbot](https://t.me/Yemenhrbot) |
+### MCP Servers
 
----
+- **[MCP-STORYSET](https://github.com/EngDawood/MCP-STORYSET)** — Remote MCP server for storyset.com — search, download, and recolor free illustrations from any MCP client
+- **[Arabic Scholar MCP Server](https://github.com/EngDawood/arabic-scholar-mcp-server)** — MCP server for searching Arabic academic research, articles, and dissertations
+- **[Paper Search MCP Server](https://github.com/EngDawood/paper-search-mcp-server)** — MCP server for academic paper search
+
+### Telegram Bots
+
+- **[Yemen Jobs Bot](https://t.me/hr_yemen)** — Telegram bot aggregating Yemeni job listings — [@hr_yemen](https://t.me/hr_yemen) · [@Yemenhrbot](https://t.me/Yemenhrbot)
+- **[Download Media](https://github.com/EngDawood/download-media)** — Telegram bot to download media from different platforms
+- **[Video Caption](https://github.com/EngDawood/video-caption)** — Telegram bot on Cloudflare Workers — fetches a video, transcribes speech, translates it, and burns in captions
+
+### Websites
+
+- **[Modern EmDash CMS](https://github.com/EngDawood/modern-emdash-cms)** — Personal portfolio on EmDash CMS — Astro SSR on Cloudflare Workers, bilingual Arabic/English
+- **[Yemen Map](https://github.com/EngDawood/yemen-map)** — خريطة اليمن وخريطة الغربة التفاعلية — interactive spinning globe where expats draw a line from their district to their city
+
+### Tools
+
+- **[RSS Cloudflare](https://github.com/EngDawood/rss-cloudflare)** — RSS Bridge as a Cloudflare Worker — RSS endpoint converting Instagram profiles, hashtags, and more
+- **[Thmanyah Font Web](https://github.com/EngDawood/thmanyah-font-web)** — Community web package for the Thmanyah font family — 3 families × 5 weights, ready-to-use CSS + CDN
+- **[Awesome Arabic Claude Skills](https://github.com/EngDawood/awesome-arabic-claude-skills)** — Curated open-source skills library for Claude Code and AI agents, focused on Arabic
 
 ## Stack
 
